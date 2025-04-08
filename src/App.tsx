@@ -38,6 +38,7 @@ const Calculator = () => {
     setOperation('');
   };
 
+  
   return (
     <div className="max-w-md mx-auto p-4 bg-white rounded-lg shadow-md">
       <div className="flex justify-end p-4 border-b border-gray-200">
